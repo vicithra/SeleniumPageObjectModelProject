@@ -1,0 +1,6 @@
+INFO     WDM:logger.py:12 ====== WebDriver manager ======
+INFO     WDM:logger.py:12 Driver [C:\Users\RAM\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+INFO     Testcases.test_carwale:test_carwale.py:61 ******Inside Car Names and Prices Test*********
+INFO     Pages.BasePage:BasePage.py:61 Moving to an element: newCar_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an element: findNewCars_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an element: Bmw_XPATH

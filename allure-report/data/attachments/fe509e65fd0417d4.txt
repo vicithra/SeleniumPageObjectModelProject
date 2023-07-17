@@ -1,0 +1,8 @@
+INFO     WDM:logger.py:12 ====== WebDriver manager ======
+INFO     WDM:logger.py:12 Current google-chrome version is 114.0.5735
+INFO     WDM:logger.py:12 Get LATEST driver version for 114.0.5735
+INFO     WDM:logger.py:12 Driver [C:\Users\RAM\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+INFO     Testcases.test_carwale:test_carwale.py:61 ******Inside Car Names and Prices Test*********
+INFO     Pages.BasePage:BasePage.py:61 Moving to an element: newCar_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an element: findNewCars_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an element: Bmw_XPATH
